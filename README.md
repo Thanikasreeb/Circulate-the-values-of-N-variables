@@ -36,11 +36,10 @@ End the program
 
 ## Program:
 
-#Program to circulate N values.
-#Developed by:Thanika sree
-#RegisterNumber:22008978
+## Program to circulate N values.
+## Developed by:Thanika sree
+## RegisterNumber:22008978
 def circulate():
-    
     circul = l[n:]+l[:n]
     print("After circulating the values are:", circul)
 l = eval(input())
